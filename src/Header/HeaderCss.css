@@ -1,0 +1,19 @@
+.p1{
+    color: green;
+}
+
+.Header1{
+    background-color: rgb(59, 58, 58);
+    width: 100%;
+    color: #fff;
+    height: 30px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:0px 10px 0px 10px ;
+}
+
+.header-button{
+    display: flex
+}
